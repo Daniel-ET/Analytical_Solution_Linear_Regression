@@ -8,3 +8,7 @@ Obtaining the least square solution involves:
 - **Transposition**.
 - **Matrix inversion**.
 - **Matrix multiplication**. 
+
+### Linear Model
+
+![image](https://user-images.githubusercontent.com/96924468/166060828-462a41ec-fd3f-486c-999c-ca3bc71f5f80.png)
